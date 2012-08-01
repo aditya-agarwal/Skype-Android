@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="loginbtn">Login</string>
+    <string name="logout">Logout</string>
+    <string name="app_name">The Skype</string>
+
+</resources>
